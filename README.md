@@ -2,12 +2,12 @@
 
 # SGTool
 
-SGTool is a library and tool for analyze of the replay of the Stormgate game. 
+SGTool is a WIP library and tool for analyze of the replay of the Stormgate game. 
 
 
 # Acknowledgement
 
-[shroudstone](https://github.com/acarapetis/shroudstone) : A project with similar goal wrote in python. We thank them for part of the reverse engineering notabally the protobuf schema also used this project.
+[shroudstone](https://github.com/acarapetis/shroudstone) : A project with similar goal wrote in python. We thank them notabally for part of the reverse engineering of the protobuf schema.
 
 # Disclamer
 
