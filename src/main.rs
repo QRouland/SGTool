@@ -1,3 +1,11 @@
+//! sgtool is a tool for analyze of the replay of the Stormgate game.
+//!
+//! 
+//! # Example
+//! ```
+//! sgtool -i replays/replay.SGReplay
+//! ```
+
 extern crate pretty_env_logger;
 #[macro_use] extern crate log;
 
